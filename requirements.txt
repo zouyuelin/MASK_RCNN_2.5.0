@@ -1,0 +1,11 @@
+numpy
+scipy
+Pillow
+Cython
+matplotlib
+scikit-image==0.16.1
+tensorflow==2.5.0
+opencv-python
+h5py
+imgaug
+IPython[all]
